@@ -1,3 +1,7 @@
+
+https://www.raspberrypi.org/documentation/usage/gpio/scratch1/README.md
+ScratchでExplorer HAT Proを使う方法。ただし、静電容量タッチパッドは使えない。
+
 ![Explorer HAT/pHAT](explorer-hat.png)
 https://shop.pimoroni.com/products/explorer-hat  
 https://shop.pimoroni.com/products/explorer-phat  
